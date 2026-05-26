@@ -1,6 +1,6 @@
 # GeneX Variant and Regulatory Network Analysis
 
-This repository contains a comprehensive three-phase bioinformatics workflow developed to investigate the molecular function and regulatory consequences of mutation in Gene X, a putative epigenomic factor. The project integrates genomic, epigenomi, and transcriptomic analyses to characterize both the direct physical targets and downstream transcriptional effects associated with disruption of Gene X activity.  
+This repository contains a comprehensive three-phase bioinformatics workflow developed to investigate the molecular function and regulatory consequences of mutation in Gene X, a putative epigenomic factor. The project integrates genomic, epigenomic and transcriptomic analyses to characterize both the direct physical targets and downstream transcriptional effects associated with disruption of Gene X activity.  
 
 Phase 1 focuses on sequencing quality control and genomic variant identification. Raw paired-end Illumina FASTQ reads were assessed using FastQC, aligned to the Gene X reference sequence using BWA-MEM and processed with SAMtools. Variants were subsequently identified using FreeBayes under a haploid model, followed by filtering and consensus sequence construction using BCFtools.  
 
