@@ -6,4 +6,4 @@ Phase 1 focuses on sequencing quality control and genomic variant identification
 
 Phase 2 involves epigenomic target identification through CUT&RUN analysis. Gene annotation features from the reference GFF3 file were intersected with Gene X CUT&RUN enrichment coordinates using BEDTools to identify genes physically associated with Gene X binding sites.  
 
-Phase 3 integrates the genomic and regulatory datasets to characterize the downstream functional consequences of Gene X mutation. By combining mutation analysis, physical DNA-binding informatio, and transcriptomic data, this workflow enables investigation of the regulatory role of Gene X and its contribution to altered gene expression networks.
+Phase 3 integrates the genomic and regulatory datasets to characterize the downstream functional consequences of Gene X mutation. By combining mutation analysis, physical DNA-binding information and transcriptomic data, this workflow enables investigation of the regulatory role of Gene X and its contribution to altered gene expression networks.
